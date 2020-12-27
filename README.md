@@ -1,5 +1,9 @@
 # Buffer-Overflow Practice for OSCP 
+
 Download applications and practice buffer overflow
+
+Practicing buffer-overflow on these apps will make you confident for OSCP exam
+
 
 FOLLOW ME
 * [Twitter](https://www.twitter.com/iamshivamz)
